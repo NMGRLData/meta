@@ -1,0 +1,62 @@
+[
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 5
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 10
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 15
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 20
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 25
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 27
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 30
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 33
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 35
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.00746, 
+        "j_err": 1.67e-05, 
+        "position": 40
+    }
+]
