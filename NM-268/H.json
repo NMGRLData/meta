@@ -1,0 +1,32 @@
+[
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 19
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 22
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 1
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 4
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 7
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 1
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 3
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 5
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 7
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 9
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 11
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 13
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 0.0015, 
+        "j_err": 1.5e-06, 
+        "position": 15
+    }
+]
