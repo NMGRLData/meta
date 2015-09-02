@@ -27,7 +27,7 @@ peakcenter:
   - AX
   - CDD
   isotope: Ar40
-  integration_time: 0.262144
+  integration_time: 0.524288
 peakhop:
   hops_name: ''
   use_peak_hop: false
