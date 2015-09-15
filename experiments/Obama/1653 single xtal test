@@ -1,0 +1,31 @@
+/Users/obama/Pychron_dev/experiments/1653 single xtal test.txt
+
+username: root
+use_email: False
+email: 
+use_group_email: False
+date: 2015-09-15 09:39:22.422795
+queue_conditionals_name: 
+mass_spectrometer: Obama
+delay_before_analyses: 5
+delay_between_analyses: 30
+extract_device: Fusions Diode
+tray: 
+load: 
+experiment_identifier: 1653 single crystals
+#================================================================================
+labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	experiment_identifier
+bu-FD-O	blank_unknown	36			40.0	300.0				diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			1653 single crystals
+63769-01	15-11	36	0.3	watts	40.0	300.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			
+63769-01	15-11	36	10.0	watts	40.0	300.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			
+63770-01	15-11	41	0.3	watts	40.0	300.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal hbl			1653 single crystals
+63770-01	15-11	41	10.0	watts	40.0	300.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal hbl			1653 single crystals
+63771-01	FC14-BM-18	52	0.3	watts	40.0	300.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			1653 single crystals
+63771-01	FC14-BM-18	52	10.0	watts	40.0	300.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			1653 single crystals
+63772-01	6-29-10-2	57	0.3	watts	40.0	300.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal pl			1653 single crystals
+63772-01	6-29-10-2	57	15.0	watts	40.0	300.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal pl			1653 single crystals
+bu-FD-O	blank_unknown	57			40.0	300.0				diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			1653 single crystals
+ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			1653 single crystals
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			1653 single crystals
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			1653 single crystals
+c-01-O	cocktail									cocktail_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			1653 single crystals
