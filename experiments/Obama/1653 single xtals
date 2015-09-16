@@ -4,7 +4,7 @@ username: root
 use_email: False
 email: 
 use_group_email: False
-date: 2015-09-16 11:36:21.835459
+date: 2015-09-16 16:52:17.039749
 queue_conditionals_name: 
 mass_spectrometer: Obama
 delay_before_analyses: 5
@@ -15,28 +15,6 @@ load: 1653 single xtals
 experiment_identifier: Load 1653 single xtals
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	experiment_identifier
-ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 xtal bi			Load 1653 single xtals
-a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 xtal bi			Load 1653 single xtals
-a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 xtal bi			Load 1653 single xtals
-bu-FD-O	blank_unknown				30.0	30.0				diode			analysis400_120				pump_ms	pump_extraction_line				1 xtal bi			Load 1653 single xtals
-63769-05	15-11	40	1.0	watts	40.0	180.0		3.0		air_x1			analysis400_120				pump_ms	pump_extraction_line				1 xtal bi			Load 1653 single xtals
-63769-05	15-11	40	10.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 xtal bi			Load 1653 single xtals
-63770-02	15-11	42	0.3	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-63770-02	15-11	42	10.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-63770-03	15-11	43	0.3	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-63770-03	15-11	43	10.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-63770-04	15-11	44	0.3	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-63770-04	15-11	44	10.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-bu-FD-O	blank_unknown	37			40.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-c-01-O	cocktail									cocktail_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-bu-FD-O	blank_unknown	37			30.0	30.0				diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
-63771-02	FC14-BM-18	53	0.3	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
-63771-02	FC14-BM-18	53	10.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
-63771-03	FC14-BM-18	54	0.3	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
 63771-03	FC14-BM-18	54	10.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
 63771-04	FC14-BM-18	55	0.3	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
 63771-04	FC14-BM-18	55	10.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
@@ -46,4 +24,9 @@ bu-FD-O	blank_unknown	37			40.0	180.0				diode			analysis400_120				pump_ms	pump
 63772-02	6-29-10-2	57	17.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
 63772-02	6-29-10-2	57	20.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
 63772-02	6-29-10-2	57	25.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
+63772-02	6-29-10-2	57	35.0	watts	40.0	180.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal bi			Load 1653 single xtals
 bu-FD-O	blank_unknown	37			40.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
+ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
+c-01-O	cocktail									cocktail_x1			analysis400_120				pump_ms	pump_extraction_line				1 crystal			Load 1653 single xtals
