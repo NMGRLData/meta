@@ -1,0 +1,251 @@
+/Users/obama/Pychron_dev/experiments/Load 1657 2nd.txt
+
+username: root
+use_email: False
+email: 
+use_group_email: False
+date: 2015-09-24 16:46:53.334774
+queue_conditionals_name: 
+mass_spectrometer: Obama
+delay_before_analyses: 5
+delay_between_analyses: 30
+extract_device: Fusions Diode
+tray: 
+load: Load 1657
+experiment_identifier: RyanCrowdetrital
+#================================================================================
+labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	experiment_identifier
+ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+c-01-O	cocktail									cocktail_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-11	RC14-BM-18	7	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-11	RC14-BM-18	7	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-12	RC14-BM-18	8	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-12	RC14-BM-18	8	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-13	RC14-BM-18	9	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-13	RC14-BM-18	9	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-14	RC14-BM-18	10	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-14	RC14-BM-18	10	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-15	RC14-BM-18	11	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-15	RC14-BM-18	11	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-16	RC14-BM-18	12	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-16	RC14-BM-18	12	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-17	RC14-BM-18	13	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-17	RC14-BM-18	13	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-18	RC14-BM-18	14	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-18	RC14-BM-18	14	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-19	RC14-BM-18	15	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-19	RC14-BM-18	15	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-20	RC14-BM-18	16	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-20	RC14-BM-18	16	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-21	RC14-BM-18	17	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-21	RC14-BM-18	17	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-22	RC14-BM-18	18	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-22	RC14-BM-18	18	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-23	RC14-BM-18	19	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-23	RC14-BM-18	19	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-24	RC14-BM-18	20	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-24	RC14-BM-18	20	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+c-01-O	cocktail									cocktail_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-25	RC14-BM-18	21	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-25	RC14-BM-18	21	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-26	RC14-BM-18	22	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-26	RC14-BM-18	22	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-27	RC14-BM-18	23	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-27	RC14-BM-18	23	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-28	RC14-BM-18	24	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-28	RC14-BM-18	24	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-29	RC14-BM-18	25	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-29	RC14-BM-18	25	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-30	RC14-BM-18	26	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-30	RC14-BM-18	26	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-31	RC14-BM-18	27	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-31	RC14-BM-18	27	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-32	RC14-BM-18	28	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-32	RC14-BM-18	28	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-33	RC14-BM-18	29	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-33	RC14-BM-18	29	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-34	RC14-BM-18	30	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-34	RC14-BM-18	30	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-35	RC14-BM-18	31	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-35	RC14-BM-18	31	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-36	RC14-BM-18	32	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-36	RC14-BM-18	32	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-37	RC14-BM-18	33	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-37	RC14-BM-18	33	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-38	RC14-BM-18	34	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-38	RC14-BM-18	34	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-39	RC14-BM-18	35	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-39	RC14-BM-18	35	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-40	RC14-BM-18	36	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-40	RC14-BM-18	36	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-41	RC14-BM-18	37	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-41	RC14-BM-18	37	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-42	RC14-BM-18	38	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-42	RC14-BM-18	38	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-43	RC14-BM-18	39	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-43	RC14-BM-18	39	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-44	RC14-BM-18	40	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-44	RC14-BM-18	40	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-45	RC14-BM-18	41	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-45	RC14-BM-18	41	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-46	RC14-BM-18	42	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-46	RC14-BM-18	42	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-47	RC14-BM-18	43	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-47	RC14-BM-18	43	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-48	RC14-BM-18	44	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-48	RC14-BM-18	44	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-49	RC14-BM-18	45	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-49	RC14-BM-18	45	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-50	RC14-BM-18	46	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-50	RC14-BM-18	46	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-51	RC14-BM-18	47	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-51	RC14-BM-18	47	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-52	RC14-BM-18	48	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-52	RC14-BM-18	48	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+c-01-O	cocktail									cocktail_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-53	RC14-BM-18	49	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-53	RC14-BM-18	49	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-54	RC14-BM-18	50	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-54	RC14-BM-18	50	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-55	RC14-BM-18	51	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-55	RC14-BM-18	51	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-56	RC14-BM-18	52	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-56	RC14-BM-18	52	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-57	RC14-BM-18	53	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-57	RC14-BM-18	53	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-58	RC14-BM-18	54	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-58	RC14-BM-18	54	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-59	RC14-BM-18	55	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-59	RC14-BM-18	55	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-60	RC14-BM-18	56	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-60	RC14-BM-18	56	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-61	RC14-BM-18	57	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-61	RC14-BM-18	57	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-62	RC14-BM-18	58	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-62	RC14-BM-18	58	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-63	RC14-BM-18	59	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-63	RC14-BM-18	59	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+c-01-O	cocktail									cocktail_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-64	RC14-BM-18	60	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-64	RC14-BM-18	60	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-65	RC14-BM-18	61	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-65	RC14-BM-18	61	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-66	RC14-BM-18	62	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-66	RC14-BM-18	62	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-67	RC14-BM-18	63	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-67	RC14-BM-18	63	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-68	RC14-BM-18	64	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-68	RC14-BM-18	64	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-69	RC14-BM-18	65	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-69	RC14-BM-18	65	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-70	RC14-BM-18	66	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-70	RC14-BM-18	66	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-71	RC14-BM-18	67	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-71	RC14-BM-18	67	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-72	RC14-BM-18	68	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-72	RC14-BM-18	68	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-73	RC14-BM-18	69	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-73	RC14-BM-18	69	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-74	RC14-BM-18	70	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-74	RC14-BM-18	70	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-75	RC14-BM-18	71	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-75	RC14-BM-18	71	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-76	RC14-BM-18	72	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-76	RC14-BM-18	72	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-77	RC14-BM-18	73	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-77	RC14-BM-18	73	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-78	RC14-BM-18	74	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-78	RC14-BM-18	74	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-79	RC14-BM-18	75	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-79	RC14-BM-18	75	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-80	RC14-BM-18	76	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-80	RC14-BM-18	76	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-81	RC14-BM-18	77	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-81	RC14-BM-18	77	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-82	RC14-BM-18	78	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-82	RC14-BM-18	78	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-83	RC14-BM-18	79	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-83	RC14-BM-18	79	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-84	RC14-BM-18	80	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-84	RC14-BM-18	80	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+ba-01-O	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+a-01-O	air									air_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+c-01-O	cocktail									cocktail_x1			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-85	RC14-BM-18	81	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-85	RC14-BM-18	81	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-86	RC14-BM-18	82	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-86	RC14-BM-18	82	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-87	RC14-BM-18	83	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-87	RC14-BM-18	83	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-88	RC14-BM-18	84	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-88	RC14-BM-18	84	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-89	RC14-BM-18	85	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-89	RC14-BM-18	85	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-90	RC14-BM-18	86	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-90	RC14-BM-18	86	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-91	RC14-BM-18	87	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-91	RC14-BM-18	87	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-92	RC14-BM-18	88	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-92	RC14-BM-18	88	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-93	RC14-BM-18	89	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-93	RC14-BM-18	89	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-94	RC14-BM-18	90	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-94	RC14-BM-18	90	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-95	RC14-BM-18	91	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-95	RC14-BM-18	91	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-96	RC14-BM-18	92	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-96	RC14-BM-18	92	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-97	RC14-BM-18	93	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-97	RC14-BM-18	93	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-98	RC14-BM-18	94	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-98	RC14-BM-18	94	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-99	RC14-BM-18	95	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-99	RC14-BM-18	95	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-100	RC14-BM-18	96	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-100	RC14-BM-18	96	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-101	RC14-BM-18	97	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-101	RC14-BM-18	97	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-102	RC14-BM-18	98	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-102	RC14-BM-18	98	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-103	RC14-BM-18	99	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-103	RC14-BM-18	99	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-104	RC14-BM-18	100	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-104	RC14-BM-18	100	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-105	RC14-BM-18	101	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-105	RC14-BM-18	101	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-106	RC14-BM-18	102	0.7	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+63771-106	RC14-BM-18	102	7.0	watts	20.0	180.0		1.25		diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
+bu-FD-O	blank_unknown				20.0	180.0				diode			analysis400_120				pump_ms	pump_extraction_line			1.77	single crystal bi			RyanCrowdetrital
