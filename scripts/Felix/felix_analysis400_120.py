@@ -19,7 +19,7 @@ multicollect:
   detector: H2
   isotope: Ar40
 peakcenter:
-  after: true
+  after: false
   before: false
   detector: H2
   detectors:
