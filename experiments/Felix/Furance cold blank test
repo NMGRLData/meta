@@ -4,7 +4,7 @@ username: MHeizler
 use_email: True
 email: matt@nmt.edu
 use_group_email: False
-date: 2016-04-14 09:47:35.949300
+date: 2016-04-14 10:24:26.481908
 queue_conditionals_name: 
 mass_spectrometer: Felix
 delay_before_analyses: 5
@@ -14,4 +14,4 @@ tray:
 load: 1703
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier
-ba-01-F	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line				5 minute furnace blank			laboratory
+ba-01-F	blank_air									air_x1			analysis400_120				pump_ms	pump_extraction_line				5 minute furnace  710 C blank			laboratory
